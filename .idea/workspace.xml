@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a52dea76-916c-4940-85e5-e89d261b947b" name="Changes" comment="add Seminar 01 Examples and Homework">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw01/Example01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw01/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw01/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw01/seminar01-example01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw02/BottleOfWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw02/Example02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw02/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw02/VMBottleOfWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw02/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/hw01/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/hw01/HotDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/hw01/HotDrinksMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/hw01/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/hw01/VendingMachine.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MbrP8BfYHIHdbBcFL5ZJhDBPR4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/YandexDisk/Личное/GeekBrains/Projects/IdeaProjects/OOP/src/main/java/org/example/seminar01/hw01",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\OOP\src\main\java\org\example\seminar01\hw01" />
+      <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\OOP\src\main\java\org\example\seminar01\cw01" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a52dea76-916c-4940-85e5-e89d261b947b" name="Changes" comment="" />
+      <created>1678047102718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678047102718</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Seminar 01 Examples and Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Seminar 01 Examples and Homework" />
+  </component>
+</project>
