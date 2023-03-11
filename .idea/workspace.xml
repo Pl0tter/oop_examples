@@ -4,29 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a52dea76-916c-4940-85e5-e89d261b947b" name="Changes" comment="add Seminar 01 Examples and Homework">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw01/Example01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw01/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw01/VendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw01/seminar01-example01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw02/BottleOfWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw02/Example02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw02/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw02/VMBottleOfWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/cw02/VendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/hw01/Homework01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/hw01/HotDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/hw01/HotDrinksMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/hw01/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar01/hw01/VendingMachine.java" afterDir="false" />
+    <list default="true" id="a52dea76-916c-4940-85e5-e89d261b947b" name="Changes" comment="add Seminar 03 Examples and Homework">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar03/cw01/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar03/cw01/Example01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar03/cw01/ListOfDogIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar03/cw01/ListOfDogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar03/hw01/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar03/hw01/DogsComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar03/hw01/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar03/hw01/ListOfDogIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar03/hw01/ListOfDogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +36,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c84b9b9b-4a1b-47af-961d-964cdd262194" />
+        <option name="url" value="https://github.com/Pl0tter/oop_examples.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,19 +73,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "E:/YandexDisk/Личное/GeekBrains/Projects/IdeaProjects/OOP/src/main/java/org/example/seminar01/hw01",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/YandexDisk/Личное/GeekBrains/Projects/IdeaProjects/OOP/src/main/java/org/example/seminar03/hw01&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\OOP\src\main\java\org\example\seminar03\hw01" />
       <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\OOP\src\main\java\org\example\seminar01\hw01" />
       <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\OOP\src\main\java\org\example\seminar01\cw01" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zagov\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\OOP\src\main\java\org\example\" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -96,10 +101,30 @@
       <option name="presentableId" value="Default" />
       <updated>1678047102718</updated>
     </task>
+    <task id="LOCAL-00001" summary="add Seminar 01 Examples and Homework">
+      <created>1678361246889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678361246889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Seminar 01 Examples and Homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Seminar 01 Examples and Homework" />
+    <MESSAGE value="add Seminar 03 Examples and Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Seminar 03 Examples and Homework" />
   </component>
 </project>
