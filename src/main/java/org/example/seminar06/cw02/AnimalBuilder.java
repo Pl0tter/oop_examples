@@ -1,0 +1,27 @@
+package org.example.seminar06.cw02;
+
+public class AnimalBuilder {
+    private static AnimalBuilder instance = null;
+    CatBuilder catB;
+    DogBuilder dogB;
+    private AnimalBuilder() {
+
+    }
+
+    public static CatBuilder getInstanceCat() {
+        CatBuilder catBuilder = new CatBuilder();
+
+        if (catBuilder.instance == null)
+            catBuilder.instance = new CatBuilder();
+        catBuilder.instance.obj = new Cat();
+
+        return catBuilder;}
+    public static DogBuilder getInstanceDog() {
+        DogBuilder dogBuilder = new DogBuilder();
+
+        if (dogBuilder.instance == null)
+            dogBuilder.instance = new DogBuilder();
+        dogBuilder.instance.obj = new Dog();
+        return new DogBuilder();
+    }
+}
